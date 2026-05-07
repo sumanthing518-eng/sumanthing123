@@ -1,1 +1,19 @@
-# sumanthing123
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title> My Website</title>
+
+</head>
+
+<body>
+
+<h1> Welcome to My Cloud Website</h1>
+
+<p> This website is hosted on cloud. </p>
+
+</body>
+
+</html>  
